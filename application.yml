@@ -1,7 +1,7 @@
 spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://jirasyncdb.cfppua5tmn1g.us-west-2.rds.amazonaws.com:3306/escuela_java_2024
+    url: jdbc:mysql://localhost:3306/examen_microservicios_2024
     username: usuario
     password: password
 
